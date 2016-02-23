@@ -28,7 +28,7 @@
 
 # Requirements
 
- - Xcode 7 or higher
+ - Xcode 7.3 or higher
  - iOS 8 or higher
 
 If you want to use the library on iOS 7, please use version 2.5.4 (the latest 2.x release). SDCAlertView is not available on iOS 6.1 or below.
